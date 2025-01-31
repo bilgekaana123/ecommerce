@@ -59,7 +59,7 @@ export default function ModeToggle() {
             checked={theme === "light"}
             onClick={() => setTheme("light")}
           >
-            light
+            Light
           </DropdownMenuCheckboxItem>
         </DropdownMenuLabel>
       </DropdownMenuContent>
